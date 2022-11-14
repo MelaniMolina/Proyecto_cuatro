@@ -6,6 +6,10 @@ public class Main {
         System.out.println("Suma: ");
         System.out.println("Resta: ");
         System.out.println("Multiplicacion: ");
+        System.out.println("Divsion: ");
+
+
+
 
     }
 }
